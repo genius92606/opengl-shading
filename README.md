@@ -28,3 +28,8 @@ cmake --build .
 ## Thirdparty
 1. GLFW3
 2. ImGui
+
+## link
+[homework pdf](https://github.com/genius92606/opengl-shading/blob/master/CGHW2.pdf)
+
+[hackmd](https://hackmd.io/s/B15mNKT94)
